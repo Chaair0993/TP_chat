@@ -1,0 +1,145 @@
+/**************CONTAINER********/
+
+.container{
+    width: 60%;
+    padding-top: 0;
+    margin-left: 20%;
+    background-color: #1c3770;
+    height: 140vh;
+}
+
+
+/************NOTRE HEADER***************/
+
+header{
+    width: 100%;
+    background-color: #1c3770;
+    height: 28vh;
+    font-family: 'Shadows Into Light', cursive;
+    text-align: center;
+}
+
+h1{
+    font-size: 9vh;
+    width: 40%;
+    padding-left: 30%; 
+    color: white;
+    margin-top: 0;
+}
+
+
+/************ NOTRE SECTION 1***********/
+
+.premieresection{
+    width: 100%;
+    height: 20%;
+    background-color: rgb(39, 45, 100);   
+}
+
+.deuxiemmesection{
+    width: 100%;
+    height: 20%;
+    background-color: rgb(255, 102, 0);   
+}
+
+.troisiemesection{
+    width: 100%;
+    height: 20%;
+    background-color: rgb(0, 255, 136);
+}
+
+
+/************** NOS article section 1 **************/
+
+.premierarticle{
+    float: left;
+    width: 20%;
+    height: 40%;
+    margin-left: 10%;
+}
+
+.deuxiemearticle{
+  
+    width: 25%;
+    height: 100%;
+    float: left;
+    margin-left: 7%;
+}
+
+
+.troisiemearticle{
+    float: right;
+    right: 0;
+    width: 25%;
+    height: 100%;
+    margin-right: 10%;
+}
+
+/***********NOS ARTICLE SECTION 2 ************/
+
+.quatriemearticle{
+    float: left;
+    width: 20%;
+    height: 40%;
+    margin-left: 10%;
+}
+
+.cinquiemearticle{
+  
+    width: 25%;
+    height: 100%;
+    float: left;
+    margin-left: 7%;
+}
+
+
+.sixsiemearticle{
+    float: right;
+    right: 0;
+    width: 25%;
+    height: 100%;
+    margin-right: 10%;
+}
+
+
+/****************NOS ARTICLE SECTION 3******************/
+
+
+.article7{
+    float: left;
+    width: 20%;
+    height: 40%;
+    margin-left: 10%;
+}
+
+.article8{
+  
+    width: 25%;
+    height: 100%;
+    float: left;
+    margin-left: 7%;
+}
+
+
+.article9{
+    float: right;
+    right: 0;
+    width: 25%;
+    height: 100%;
+    margin-right: 10%;
+}
+
+
+/***************NOTRE CLEAR****************/
+
+.clear{
+    clear: both;
+}
+
+/**************PARAGRAPHE**************/
+.paragraphe{
+    color: white;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 3vh;
+    text-align: center;
+}
